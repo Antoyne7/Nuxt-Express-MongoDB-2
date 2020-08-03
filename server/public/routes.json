@@ -1,0 +1,51 @@
+[
+  {
+    "name": "articles",
+    "path": "/articles",
+    "component": "C:\\\\Users\\\\antoi\\\\OneDrive\\\\Documents\\\\RANDOM_WORKSPACE\\\\JS\\\\VueJS\\\\NuxtJS-test\\\\test3\\\\client\\\\pages\\\\articles\\\\index.vue",
+    "chunkName": "pages/articles/index",
+    "_name": "_43970fbe"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "C:\\\\Users\\\\antoi\\\\OneDrive\\\\Documents\\\\RANDOM_WORKSPACE\\\\JS\\\\VueJS\\\\NuxtJS-test\\\\test3\\\\client\\\\pages\\\\posts\\\\index.vue",
+    "chunkName": "pages/posts/index",
+    "_name": "_6fecb3ba"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "C:\\\\Users\\\\antoi\\\\OneDrive\\\\Documents\\\\RANDOM_WORKSPACE\\\\JS\\\\VueJS\\\\NuxtJS-test\\\\test3\\\\client\\\\pages\\\\auth\\\\login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_688f38ed"
+  },
+  {
+    "name": "useless-gaming",
+    "path": "/useless/gaming",
+    "component": "C:\\\\Users\\\\antoi\\\\OneDrive\\\\Documents\\\\RANDOM_WORKSPACE\\\\JS\\\\VueJS\\\\NuxtJS-test\\\\test3\\\\client\\\\pages\\\\useless\\\\gaming.vue",
+    "chunkName": "pages/useless/gaming",
+    "_name": "_65e1d9fb"
+  },
+  {
+    "name": "useless-inspire",
+    "path": "/useless/inspire",
+    "component": "C:\\\\Users\\\\antoi\\\\OneDrive\\\\Documents\\\\RANDOM_WORKSPACE\\\\JS\\\\VueJS\\\\NuxtJS-test\\\\test3\\\\client\\\\pages\\\\useless\\\\inspire.vue",
+    "chunkName": "pages/useless/inspire",
+    "_name": "_45ccdc3e"
+  },
+  {
+    "name": "articles-id",
+    "path": "/articles/:id",
+    "component": "C:\\\\Users\\\\antoi\\\\OneDrive\\\\Documents\\\\RANDOM_WORKSPACE\\\\JS\\\\VueJS\\\\NuxtJS-test\\\\test3\\\\client\\\\pages\\\\articles\\\\_id\\\\index.vue",
+    "chunkName": "pages/articles/_id/index",
+    "_name": "_3e027cce"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\antoi\\\\OneDrive\\\\Documents\\\\RANDOM_WORKSPACE\\\\JS\\\\VueJS\\\\NuxtJS-test\\\\test3\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7c10e6fe"
+  }
+]

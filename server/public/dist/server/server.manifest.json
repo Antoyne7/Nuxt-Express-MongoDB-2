@@ -1,0 +1,23 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/articles/_id/index.js": "pages/articles/_id/index.js",
+    "pages/articles/index.js": "pages/articles/index.js",
+    "pages/auth/login.js": "pages/auth/login.js",
+    "pages/index.js": "pages/index.js",
+    "pages/posts/index.js": "pages/posts/index.js",
+    "pages/useless/gaming.js": "pages/useless/gaming.js",
+    "pages/useless/inspire.js": "pages/useless/inspire.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/articles/_id/index.js": "pages/articles/_id/index.js.map",
+    "pages/articles/index.js": "pages/articles/index.js.map",
+    "pages/auth/login.js": "pages/auth/login.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/posts/index.js": "pages/posts/index.js.map",
+    "pages/useless/gaming.js": "pages/useless/gaming.js.map",
+    "pages/useless/inspire.js": "pages/useless/inspire.js.map",
+    "server.js": "server.js.map"
+  }
+}
